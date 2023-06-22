@@ -38,6 +38,8 @@ After the credentials are received:
 
 - The bot repeats the interaction cycle until the desired number of interactions is fulfilled.
 
+https://github.com/haris-sujethan/Automated-Instagram-Growth-Bot/assets/96924701/63c38d9b-b523-4e7f-be76-21216a42c1ba
+
 ## unFollow.py
 
 After the credentials are received:
@@ -47,3 +49,5 @@ After the credentials are received:
 - It redirects the user to their following list
 
 - Iterates through the users following list  and unfollows other users
+
+https://github.com/haris-sujethan/Automated-Instagram-Growth-Bot/assets/96924701/be324026-2453-4523-9751-9a205024ed56
