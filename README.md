@@ -22,7 +22,7 @@ The idea behind this bot is to interact with posts under specific hashtags such 
     - **Integrated ChatGPT (If Applicable)**: In case you have access to the OpenAi API, you can integrate the following code:<img src="images/OpenAiCode.png" width="800">
 
 - **Handling User Credentials**: Currently, the project prompts users to enter their Instagram username and password directly in the terminal upon running the code. While this information is not stored, it is essential to prioritize security. To adopt a safer approach, it is recommended to store your Instagram username and password in a separate file called "secret.py" and make the following modifications in the "SeleniumAutomation.py" file (Add the green, remove the red):
-- <img src="images/UserCode.png" width="800">
+     - <img src="images/UserCode.png" width="800">
 
 ## SeleniumAutomation.py
 
