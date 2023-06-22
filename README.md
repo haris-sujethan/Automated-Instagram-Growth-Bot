@@ -5,7 +5,7 @@ The Automated Instagram Growth Bot is a Python-based project built using the Sel
 The idea behind this bot is to interact with posts under specific hashtags such as "#Follow4Follow" or "#LikeforLike". When a user engages with posts under these hashtags, their interactions will be hypothetically reciprocated by other users.
 ## Prerequisites: It is important to consider the following information:
 
-- **VPN Usage**: It is highly recommended to employ a VPN while using this code. Implementing a VPN helps to mitigate the risk of Selenium webdriver being detected as a bot, thus reducing the likelihood of restrictions or blocks from Instagram.
+- **VPN Usage**: It is highly recommended to employ a VPN while using this code. Implementing a VPN helps to mitigate the risk of the Selenium web driver being detected as a bot, thus reducing the likelihood of restrictions or blocks from Instagram.
 
 - **Instagram Limits**: It is crucial to be mindful of Instagram's usage limits to maintain a compliant and sustainable approach. These limits pertain to various actions such as likes, comments, and follows. Here are some guidelines to keep in mind:
 
@@ -32,7 +32,7 @@ After the credentials are received:
 
 - It redirects the user to a specific hashtag page on Instagram.
 
-- The bot proceeds to interact with the photos by liking them, following the user, and, with a 33% chance, leaving a comment.
+- The bot proceeds to interact with the photos by liking them, following the user, and commenting (comments only take place 34% of the time)
 
 - If any errors occur during the interaction process, the bot handles them gracefully and moves on to the next photo.
 
@@ -48,6 +48,6 @@ After the credentials are received:
 
 - It redirects the user to their following list
 
-- Iterates through the users following list  and unfollows other users
+- Iterates through the users following list and unfollows other users
 
 https://github.com/haris-sujethan/Automated-Instagram-Growth-Bot/assets/96924701/be324026-2453-4523-9751-9a205024ed56
