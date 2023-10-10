@@ -3,7 +3,7 @@
 The Automated Instagram Growth Bot is a Python-based project built using the Selenium library. It is designed to automate various tasks on the Instagram platform, enabling users to enhance their Instagram presence and grow their follower base more efficiently.
 
 The idea behind this bot is to interact with posts under specific hashtags such as "#Follow4Follow" or "#LikeforLike". When a user engages with posts under these hashtags, their interactions will be hypothetically reciprocated by other users.
-## Prerequisites: It is important to consider the following information
+## Prerequisites:
 
 - **VPN Usage**: It is highly recommended to employ a VPN while using this code. Implementing a VPN helps to mitigate the risk of the Selenium web driver being detected as a bot, thus reducing the likelihood of restrictions or blocks from Instagram.
 
@@ -15,7 +15,7 @@ The idea behind this bot is to interact with posts under specific hashtags such 
 
     - **Follows/Unfollows**: Instagram regulates the number of users you can follow or unfollow in a day. It is recommended to stay within the range of 150 to 200 follows or unfollows. 
 
-## Usage: Important Information Before Using the Code
+## Usage:
 
 - **Integrated ChatGPT**: As of now, OpenAi no longer provides free API credits. Consequently, the code has been updated to incorporate an alternative approach. It now randomly selects a friendly comment from an extensive array of pre-existing comments.
 
