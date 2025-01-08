@@ -1,13 +1,13 @@
 # Automated-Instagram-Growth-Bot
 
-The Automated Instagram Growth Bot is a Python-based project built using the Selenium library. It is designed to automate various tasks on the Instagram platform, enabling users to enhance their Instagram presence and grow their follower base more efficiently.
+The Automated Instagram Growth Bot is a Python-based project built using the Selenium library. It is designed to automate various tasks on the Instagram platform, enabling users to enhance their Instagram presence and grow their follower base more efficiently. This was built for learning purposes and not intended for use. 
 
 The idea behind this bot is to interact with posts under specific hashtags such as "#Follow4Follow" or "#LikeforLike". When a user engages with posts under these hashtags, their interactions will be hypothetically reciprocated by other users.
 ## Prerequisites:
 
 - **VPN Usage**: It is highly recommended to employ a VPN while using this code. Implementing a VPN helps to mitigate the risk of the Selenium web driver being detected as a bot, thus reducing the likelihood of restrictions or blocks from Instagram.
 
-- **Instagram Limits**: It is crucial to be mindful of Instagram's usage limits to maintain a compliant and sustainable approach. These limits pertain to various actions such as likes, comments, and follows. Here are some guidelines to keep in mind:
+- **Instagram Limits**: It is crucial to be mindful of Instagram's usage limits to maintain a compliant and sustainable approach. These limits pertain to various actions such as likes, comments, and follows. Here are some guidelines to keep in mind, (the limits below are subject to updates):
 
      - **Likes**: Instagram imposes restrictions on the number of likes you can perform within an hour. For new accounts, it is advisable to limit likes to approximately 60 posts per hour. However, older accounts with a substantial follower base can extend this limit to around 120 likes per hour.
 
